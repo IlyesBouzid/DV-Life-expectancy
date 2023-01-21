@@ -1,0 +1,194 @@
+Country,min,max,mean,code
+Afghanistan,54.8,65.0,58.19375,AFG
+Albania,72.6,77.8,75.15625,ALB
+Algeria,71.3,75.6,73.61875,DZA
+Angola,45.3,56.0,49.01875,AGO
+Antigua and Barbuda,73.6,76.4,75.05625,ATG
+Argentina,74.0,76.3,75.15625,ARG
+Armenia,72.0,74.8,73.4,ARM
+Australia,79.5,86.0,81.8125,AUS
+Austria,78.1,88.0,81.48125,AUT
+Azerbaijan,66.6,78.0,70.73125,AZE
+Bahamas,72.6,76.1,74.2875,BHS
+Bahrain,74.5,76.9,75.725,BHR
+Bangladesh,65.3,77.0,69.3,BGD
+Barbados,73.3,75.5,74.35625,BRB
+Belarus,67.2,73.0,69.90625,BLR
+Belgium,77.6,89.0,80.68125,BEL
+Belize,68.2,71.0,69.26875,BLZ
+Benin,55.4,60.0,57.56875,BEN
+Bhutan,61.7,69.8,66.1625,BTN
+Bolivia (Plurinational State of),62.6,77.0,67.70625,BOL
+Bosnia and Herzegovina,74.6,77.4,75.96875,BIH
+Botswana,46.0,65.7,56.05,BWA
+Brazil,71.0,75.0,73.38125,BRA
+Brunei Darussalam,74.4,78.3,76.4875,BRN
+Bulgaria,71.1,74.5,72.85,BGR
+Burkina Faso,51.0,59.9,55.64375,BFA
+Burundi,51.3,59.6,55.5375,BDI
+Cabo Verde,69.9,77.0,72.51875,CPV
+Cambodia,57.7,68.7,64.34375,KHM
+Cameroon,51.4,57.3,54.01875,CMR
+Canada,79.1,87.0,81.6875,CAN
+Central African Republic,45.6,58.0,48.5125,CAF
+Chad,47.6,57.0,50.3875,TCD
+Chile,77.3,85.0,79.45,CHL
+China,71.7,76.1,74.2625,CHN
+Colombia,71.4,74.8,73.2875,COL
+Comoros,59.5,66.0,61.58125,COM
+Congo,52.6,68.0,59.04375,COG
+Cook Islands,69.22,69.22,69.22,COK
+Costa Rica,77.5,79.6,78.59375,CRI
+Croatia,74.7,78.0,76.11875,HRV
+Cuba,76.7,79.1,77.975,CUB
+Cyprus,78.1,85.0,79.675,CYP
+Czechia,74.7,78.8,76.76875,CZE
+Côte d'Ivoire,47.7,54.0,50.3875,CIV
+Democratic People's Republic of Korea,65.4,76.0,69.19375,PRK
+Democratic Republic of the Congo,51.3,59.8,55.6875,COD
+Denmark,76.9,86.0,79.25625,DNK
+Djibouti,57.4,69.0,60.75625,DJI
+Dominica,69.22,69.22,69.22,DMA
+Dominican Republic,69.3,73.9,72.34375,DOM
+Ecuador,72.8,76.2,74.725,ECU
+Egypt,68.6,79.0,71.5,EGY
+El Salvador,68.9,75.0,71.74375,SLV
+Equatorial Guinea,52.7,58.2,55.3125,GNQ
+Eritrea,45.3,67.0,60.6875,ERI
+Estonia,71.2,78.0,74.94375,EST
+Ethiopia,51.2,68.0,59.1125,ETH
+Fiji,67.7,69.9,68.7125,FJI
+Finland,77.5,89.0,80.7125,FIN
+France,78.8,89.0,82.21875,FRA
+Gabon,59.7,66.0,62.24375,GAB
+Gambia,55.9,68.0,59.4625,GMB
+Georgia,71.7,74.5,73.51,GEO
+Germany,78.0,89.0,81.175,DEU
+Ghana,57.2,69.0,60.8625,GHA
+Greece,78.2,88.0,81.21875,GRC
+Grenada,71.1,79.0,73.29375,GRD
+Guatemala,67.7,79.0,71.73125,GTM
+Guinea,52.5,59.0,56.0125,GIN
+Guinea-Bissau,52.1,58.9,55.36875,GNB
+Guyana,65.0,66.3,65.6375,GUY
+Haiti,36.3,65.0,59.86875,HTI
+Honduras,71.0,74.6,72.99375,HND
+Hungary,71.7,75.8,73.825,HUN
+Iceland,79.7,88.0,82.44375,ISL
+India,62.5,68.3,65.41875,IND
+Indonesia,65.3,69.1,67.55625,IDN
+Iran (Islamic Republic of),71.2,78.0,73.85625,IRN
+Iraq,64.7,77.0,70.35625,IRQ
+Ireland,76.4,86.0,80.15,IRL
+Israel,78.9,84.0,81.3,ISR
+Italy,79.4,89.0,82.1875,ITA
+Jamaica,72.6,76.2,74.29375,JAM
+Japan,81.1,83.7,82.5375,JPN
+Jordan,71.7,74.1,72.9875,JOR
+Kazakhstan,63.9,72.0,66.7625,KAZ
+Kenya,51.9,63.4,57.48125,KEN
+Kiribati,64.1,66.3,65.15,KIR
+Kuwait,73.2,74.7,73.84375,KWT
+Kyrgyzstan,66.6,78.0,69.08125,KGZ
+Lao People's Democratic Republic,58.1,65.7,62.38125,LAO
+Latvia,69.9,78.0,73.73125,LVA
+Lebanon,72.7,75.0,74.2,LBN
+Lesotho,44.5,53.7,48.78125,LSO
+Liberia,50.0,67.0,57.525,LBR
+Libya,71.0,78.0,72.4875,LBY
+Lithuania,71.1,78.0,72.80625,LTU
+Luxembourg,77.8,88.0,80.78125,LUX
+Madagascar,57.9,69.0,62.74375,MDG
+Malawi,43.1,58.3,49.89375,MWI
+Malaysia,72.4,75.0,73.75625,MYS
+Maldives,69.6,78.5,75.5375,MDV
+Mali,49.8,58.2,54.9375,MLI
+Malta,77.5,87.0,80.3625,MLT
+Marshall Islands,69.22,69.22,69.22,MHL
+Mauritania,60.0,69.0,62.8,MRT
+Mauritius,71.0,74.6,72.7125,MUS
+Mexico,74.8,76.7,75.71875,MEX
+Micronesia (Federated States of),66.2,69.4,68.2,FSM
+Monaco,69.22,69.22,69.22,MCO
+Mongolia,62.8,68.8,65.8875,MNG
+Montenegro,73.0,76.1,74.5,MNE
+Morocco,68.6,77.0,72.15625,MAR
+Mozambique,49.0,58.0,53.39375,MOZ
+Myanmar,59.2,66.6,64.2,MMR
+Namibia,54.7,66.1,60.4,NAM
+Nauru,69.22,69.22,69.22,NRU
+Nepal,62.5,69.6,66.48125,NPL
+Netherlands,78.1,88.0,81.13125,NLD
+New Zealand,78.5,89.0,81.3375,NZL
+Nicaragua,71.0,76.0,73.45,NIC
+Niger,50.0,69.0,56.98125,NER
+Nigeria,47.1,59.0,51.35625,NGA
+Niue,69.22,69.22,69.22,NIU
+Norway,78.5,89.0,81.79375,NOR
+Oman,72.6,76.6,74.84375,OMN
+Pakistan,62.8,66.4,64.5,PAK
+Palau,69.22,69.22,69.22,PLW
+Panama,75.5,77.8,76.4875,PAN
+Papua New Guinea,58.9,68.0,61.68125,PNG
+Paraguay,71.2,79.0,73.1125,PRY
+Peru,71.4,75.5,73.6625,PER
+Philippines,66.8,68.5,67.575,PHL
+Poland,73.7,77.5,75.65,POL
+Portugal,76.6,89.0,79.99375,PRT
+Qatar,76.2,78.2,77.03125,QAT
+Republic of Korea,76.0,87.0,80.4875,KOR
+Republic of Moldova,67.1,79.0,69.98125,MDA
+Romania,71.1,78.0,74.05,ROU
+Russian Federation,64.6,75.0,67.7625,RUS
+Rwanda,48.3,68.0,59.3125,RWA
+Saint Kitts and Nevis,69.22,69.22,69.22,KNA
+Saint Lucia,71.6,75.2,73.6,LCA
+Saint Vincent and the Grenadines,71.0,79.0,73.475,VCT
+Samoa,71.4,79.0,73.61875,WSM
+San Marino,69.22,69.22,69.22,SMR
+Sao Tome and Principe,62.6,67.5,65.1625,STP
+Saudi Arabia,72.6,74.5,73.46875,SAU
+Senegal,57.5,66.7,62.56875,SEN
+Serbia,72.6,75.6,73.95625,SRB
+Seychelles,71.8,73.2,72.375,SYC
+Sierra Leone,39.0,54.0,46.1125,SLE
+Singapore,78.3,87.0,81.475,SGP
+Slovakia,73.0,76.7,74.75,SVK
+Slovenia,76.0,88.0,79.73125,SVN
+Solomon Islands,65.8,69.2,67.7125,SLB
+Somalia,51.1,58.0,53.31875,SOM
+South Africa,53.7,69.0,57.5,ZAF
+South Sudan,48.9,58.0,53.875,SSD
+Spain,79.1,89.0,82.06875,ESP
+Sri Lanka,69.1,74.9,73.4,LKA
+Sudan,58.6,67.0,61.825,SDN
+Suriname,67.4,76.0,70.08125,SUR
+Swaziland,45.6,58.9,51.325,SWZ
+Sweden,79.6,89.0,82.51875,SWE
+Switzerland,79.7,85.0,82.33125,CHE
+Syrian Arab Republic,62.8,73.8,70.85,SYR
+Tajikistan,63.7,69.7,66.65625,TJK
+Thailand,71.1,74.9,73.08125,THA
+The former Yugoslav republic of Macedonia,72.6,75.7,74.1125,MKD
+Timor-Leste,58.7,68.3,64.75625,TLS
+Togo,54.6,59.9,56.6625,TGO
+Tonga,71.6,73.5,72.53125,TON
+Trinidad and Tobago,69.1,78.0,71.06875,TTO
+Tunisia,72.9,75.3,74.35625,TUN
+Turkey,71.2,78.0,73.9125,TUR
+Turkmenistan,63.3,66.3,64.61875,TKM
+Tuvalu,69.22,69.22,69.22,TUV
+Uganda,46.6,67.0,55.70625,UGA
+Ukraine,67.0,78.0,69.9375,UKR
+United Arab Emirates,74.2,77.1,75.7,ARE
+United Kingdom of Great Britain and Northern Ireland,77.8,87.0,80.79375,GBR
+United Republic of Tanzania,49.2,67.0,56.00625,TZA
+United States of America,76.8,79.3,78.0625,USA
+Uruguay,75.1,77.0,76.075,URY
+Uzbekistan,67.1,69.4,68.03125,UZB
+Vanuatu,69.0,78.0,71.3875,VUT
+Venezuela (Bolivarian Republic of),72.4,74.1,73.3875,VEN
+Viet Nam,73.4,76.0,74.775,VNM
+Yemen,61.1,68.0,63.8625,YEM
+Zambia,43.8,63.0,53.90625,ZMB
+Zimbabwe,44.3,67.0,50.4875,ZWE
