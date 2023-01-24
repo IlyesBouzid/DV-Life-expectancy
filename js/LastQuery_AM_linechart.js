@@ -80,6 +80,7 @@ function LastQuery_AM(){
 
         svg.append("text")
                    /* .attr("class", "x label") */
+                    .attr("class","labels")
                     .attr("text-anchor", "end")
                     .attr("x", width)
                     .attr("y", height + 40 )
@@ -87,6 +88,7 @@ function LastQuery_AM(){
 
         // Add Y axis label:
         svg.append("text")
+                    .attr("class","labels")
                     .attr("text-anchor", "middle")
                     .attr("transform", "rotate(-90)")
                     .attr("x", -margin.top - (height/2))
@@ -95,6 +97,7 @@ function LastQuery_AM(){
 
         // Add Y axis label:
         svg.append("text")
+                    .attr("class","labels")
                     .attr("text-anchor", "middle")
                     .attr("transform", "translate(" + width + " ,0) rotate(-90)")
                     .attr("x", - margin.top - (height/2) + 10)

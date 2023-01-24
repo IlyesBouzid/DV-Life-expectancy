@@ -53,6 +53,7 @@ function FirstQuery(){
 
     // Add X axis label:
       svg.append("text")
+        .attr("class","labels")
         .attr("text-anchor", "end")
         .attr("x", width)
         .attr("y", height + 40 )
@@ -60,9 +61,10 @@ function FirstQuery(){
 
     // Add Y axis label:
       svg.append("text")
+        .attr("class","labels")
         .attr("text-anchor", "start")
         .attr("x", 0)
-        .attr("y", -20 )
+        .attr("y", -10 )
         .text("Life expectancy (years)");
       // Initialize line with first group of the list
       var line = svg

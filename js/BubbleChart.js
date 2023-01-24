@@ -44,6 +44,7 @@ function BubbleChart(){
 
     // Add X axis label:
     svg.append("text")
+        .attr("class","labels")
         .attr("text-anchor", "end")
         .attr("x", width)
         .attr("y", height+50 )
@@ -57,9 +58,10 @@ function BubbleChart(){
 
     // Add Y axis label:
     svg.append("text")
+        .attr("class","labels")
         .attr("text-anchor", "start")
         .attr("x", 0)
-        .attr("y", -20 )
+        .attr("y", -10 )
         .text("Life expectancy (years)")
 
     // Add a scale for bubble size
@@ -167,7 +169,7 @@ function BubbleChart(){
         .enter()
         .append("circle")
           .attr("cx", xCircle)
-          .attr("cy", function(d){ return height - 100 - z(d) } )
+          .attr("cy", function(d){ return height - 50 - z(d) } )
           .attr("r", function(d){ return z(d) })
           .style("fill", "none")
           .attr("stroke", "black")
@@ -180,8 +182,8 @@ function BubbleChart(){
         .append("line")
           .attr('x1', function(d){ return xCircle + z(d) } )
           .attr('x2', xLabel)
-          .attr('y1', function(d){ return height - 100 - z(d) } )
-          .attr('y2', function(d){ return height - 100 - z(d) } )
+          .attr('y1', function(d){ return height - 50 - z(d) } )
+          .attr('y2', function(d){ return height - 50 - z(d) } )
           .attr('stroke', 'black')
           .style('stroke-dasharray', ('2,2'))
 
@@ -192,7 +194,7 @@ function BubbleChart(){
         .enter()
         .append("text")
           .attr('x', xLabel)
-          .attr('y', function(d){ return height - 100 - z(d) } )
+          .attr('y', function(d){ return height - 50 - z(d) } )
           .text( function(d){ return d/1000000 } )
           .style("font-size", 10)
           .attr('alignment-baseline', 'middle')
@@ -200,7 +202,7 @@ function BubbleChart(){
       // Legend title
       svg.append("text")
         .attr('x', xCircle)
-        .attr("y", height - 100 +30)
+        .attr("y", height - 50 +30)
         .text("Population (M)")
         .attr("text-anchor", "middle")
 
